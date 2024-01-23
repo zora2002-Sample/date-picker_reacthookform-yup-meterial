@@ -1,8 +1,8 @@
+import DateSelector from './components/DateSelector'
 function App() {
 
   return (
-    <>
-    </>
+    <DateSelector />
   )
 }
 
